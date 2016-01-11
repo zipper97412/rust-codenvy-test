@@ -1,1 +1,22 @@
-{"mixinTypes":["factory"],"builders":{"configs":{}},"runners":{"configs":{"project:/Rust%20Console%201.0":{"ram":4000,"variables":{"configurationType":"blank"},"options":{}}},"default":"project:/Rust%20Console%201.0"},"type":"blank","attributes":{"sourceFactoryId":["h7vm32xbw4igw99j"]}}
+{
+	"mixinTypes": ["factory"],
+	"builders": {
+     	"configs": {}
+   },
+  	"runners": {
+     	"configs": {
+        	"project:/Rust%20Console%201.0": {
+           	"ram":4000,
+           	"variables": {
+              	"configurationType":"blank"
+            },
+           	"options":{}
+         }
+      },
+		"default":"project:/Rust%20Console%201.0"
+   },
+  	"type":"blank",
+  	"attributes": {
+     	"sourceFactoryId": ["h7vm32xbw4igw99j"]
+   }
+}
